@@ -5,4 +5,5 @@ Baron Lenardson
 Ben Closner
 Justin Williams
 Kim Tracy
+Spencer Miskoviak
 Steven Bertolucci
