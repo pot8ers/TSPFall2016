@@ -9,6 +9,7 @@ Ben Denys
 Brandon Froncek
 Dan Knenlein
 Jacob Striebel
+Jamie Witmer
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
