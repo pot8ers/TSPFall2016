@@ -1,9 +1,11 @@
 //
 // Please put names in alphabetical order (according to first name) into this file
 //
+Alec Rivet
 Andrew Fox
 Baron Lenardson
 Ben Closner
+Brandon Froncek
 Dan Knenlein
 Jacob Striebel
 Jordan Gagnon
@@ -20,3 +22,4 @@ Gage Heeringa
 Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
+
