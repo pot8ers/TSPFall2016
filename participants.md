@@ -11,6 +11,7 @@ Dan Knenlein
 Grant Buhl
 Jacob Striebel
 Jamie Witmer
+Jeremy Barker
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
@@ -27,4 +28,3 @@ Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
 Zach DeKraker
-Jeremy Barker
