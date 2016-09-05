@@ -5,7 +5,7 @@ Alec Rivet
 Andrew Fox
 Baron Lenardson
 Ben Closner
-Ben Dneys
+Ben Denys
 Brandon Froncek
 Dan Knenlein
 Jacob Striebel
