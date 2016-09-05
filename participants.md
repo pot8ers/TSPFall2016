@@ -5,6 +5,7 @@ Andrew Fox
 Baron Lenardson
 Ben Closner
 Dan Knenlein
+Jacob Striebel
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
