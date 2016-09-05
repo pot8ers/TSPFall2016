@@ -5,6 +5,7 @@ Alec Rivet
 Andrew Fox
 Baron Lenardson
 Ben Closner
+Brandon Froncek
 Dan Knenlein
 Jordan Gagnon
 Joshua Prewett
@@ -20,4 +21,4 @@ Gage Heeringa
 Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
-Brandon Froncek
+
