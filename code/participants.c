@@ -43,7 +43,8 @@ main (int argc, char *argv[])
   printf ("%02d: Brandon Froncek\n" , ++i);
   printf ("%02d: Zach DeKraker\n", ++i);
   printf ("%02d: Alec Rivet\n" , ++i);
-  printf ("%02d: Andee Anderson\n". ++i);
+  printf ("%02d: Andee Anderson\n", ++i);
+  printf ("%02d: Ben Denys\n", ++i);
 
   printf ("There are %i participants.\n", i);
   return 0;
