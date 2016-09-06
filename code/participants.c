@@ -53,7 +53,11 @@ main (int argc, char *argv[])
   printf ("%02d: Brennan Lautner\n", ++i);
   printf ("%02d: Richard Carpenter\n", ++i);
   printf ("%02d: Collin Bernard\n", ++i);
+<<<<<<< HEAD
   printf ("%02d: Kate Weber\n", ++i);
+=======
+  printf ("%02d: Jake Mager\n", ++i);
+>>>>>>> 6cca03a6c9c110c1e20342a7d0d016ea9011052b
   printf ("There are %i participants.\n", i);
   return 0;
 } // main

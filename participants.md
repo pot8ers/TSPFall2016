@@ -8,6 +8,7 @@ Baron Lenardson
 Ben Closner
 Ben Denys
 Brandon Froncek
+Cameron Pollock
 Collin Bernard
 Dan Knenlein
 Dylan Lettinga
@@ -18,6 +19,7 @@ Jeremy Barker
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
+Jake Mager
 Kate Weber
 Kim Tracy
 Kyle Bray
