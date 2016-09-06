@@ -8,7 +8,6 @@ Baron Lenardson
 Ben Closner
 Ben Denys
 Brandon Froncek
-Collin Bernard
 Dan Knenlein
 Dylan Lettinga
 Grant Buhl
