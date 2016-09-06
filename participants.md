@@ -18,6 +18,7 @@ Jeremy Barker
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
+Jake Mager
 Kim Tracy
 Kyle Bray
 Maxx Lehmann
