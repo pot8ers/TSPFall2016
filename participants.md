@@ -8,6 +8,7 @@ Baron Lenardson
 Ben Closner
 Ben Denys
 Brandon Froncek
+Cameron Pollock
 Collin Bernard
 Dan Knenlein
 Dylan Lettinga
