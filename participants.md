@@ -20,6 +20,7 @@ Kyle Bray
 Maxx Lehmann
 Michael Lay
 Michael LeCaptain
+Richard Carpenter 
 S. 'Andee' Anderson
 Spencer Miskoviak
 Steven Bertolucci
