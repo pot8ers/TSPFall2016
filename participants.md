@@ -8,6 +8,7 @@ Ben Closner
 Ben Denys
 Brandon Froncek
 Dan Knenlein
+Dylan Lettinga
 Grant Buhl
 Jacob Striebel
 Jamie Witmer
