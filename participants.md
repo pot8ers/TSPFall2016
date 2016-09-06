@@ -8,6 +8,7 @@ Baron Lenardson
 Ben Closner
 Ben Denys
 Brandon Froncek
+Cameron Pollock
 Collin Bernard
 Dan Knenlein
 Dylan Lettinga
@@ -18,7 +19,11 @@ Jeremy Barker
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
+<<<<<<< HEAD
 Jake Mager
+=======
+Kate Weber
+>>>>>>> 6e8f521ba5edb919b3cf5fc880cecfd3f9bf7b7f
 Kim Tracy
 Kyle Bray
 Maxx Lehmann
