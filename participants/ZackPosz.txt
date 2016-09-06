@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Name: Zack Posz
 Email: zjposz@mtu.edu
 GitHub Acct: Saltrenis
+=======
+Name: Zack Posz
+Email: zjposz@mtu.edu
+GitHub Acct: Saltrenis
+>>>>>>> d843dc49b4f1c054ac5c6eaacf0170be1148526a
