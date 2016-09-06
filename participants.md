@@ -17,6 +17,7 @@ Joshua Prewett
 Justin Williams
 Kim Tracy
 Kyle Bray
+Maxx Lehmann
 Michael Lay
 Michael LeCaptain
 S. 'Andee' Anderson
