@@ -4,6 +4,7 @@
 Alec Rivet
 Andrew Fox
 Andrew Wolowiec
+Avery Bailey
 Baron Lenardson
 Ben Closner
 Ben Denys
