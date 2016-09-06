@@ -33,3 +33,4 @@ Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
 Zach DeKraker
+Zane Barker
