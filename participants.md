@@ -19,11 +19,8 @@ Jeremy Barker
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
-<<<<<<< HEAD
 Jake Mager
-=======
 Kate Weber
->>>>>>> 6e8f521ba5edb919b3cf5fc880cecfd3f9bf7b7f
 Kim Tracy
 Kyle Bray
 Maxx Lehmann
