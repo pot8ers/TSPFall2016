@@ -28,6 +28,7 @@ Keith Atkinson
 Kim Tracy
 Kyle Bray
 Marlaina Wunderlich
+Matthew Vogt
 Maxx Lehmann
 Michael Gryzwa
 Michael Lay
