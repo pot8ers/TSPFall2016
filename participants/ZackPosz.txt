@@ -1,4 +1,3 @@
-
 Name: Zack Posz
 Email: zjposz@mtu.edu
 GitHub Acct: Saltrenis
