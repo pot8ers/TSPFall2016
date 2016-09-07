@@ -16,6 +16,7 @@ Cameron Pollock
 Collin Bernard
 Catherine Steigerwald
 Dan Knenlein
+Dillon Krompetz
 Dylan Lettinga
 Grant Buhl
 Jacob Striebel
