@@ -8,6 +8,7 @@ Avery Bailey
 Baron Lenardson
 Ben Closner
 Ben Denys
+Benjamin Slade
 Brandon Froncek
 Cameron Pollock
 Collin Bernard
