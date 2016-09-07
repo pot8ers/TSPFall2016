@@ -1,1 +1,1 @@
-This is used as a testing repository for the gitlab homework. Some stupid change.
+This is used as a testing repository for the gitlab homework. 
