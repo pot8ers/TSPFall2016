@@ -30,6 +30,7 @@ Kyle Bray
 Marlaina Wunderlich
 Matthew Vogt
 Maxx Lehmann
+Michael Drogowski
 Michael Gryzwa
 Michael Lay
 Michael LeCaptain
@@ -45,5 +46,6 @@ Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
 Zach DeKraker
+Zack Posz
 Zane Barker
 
