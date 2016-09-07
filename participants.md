@@ -13,8 +13,8 @@ Benjamin Slade
 BJ Kent
 Brandon Froncek
 Cameron Pollock
-Collin Bernard
 Catherine Steigerwald
+Collin Bernard
 Dan Knenlein
 Dimitrios Kazakos
 Elijah Pass
