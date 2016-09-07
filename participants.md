@@ -23,7 +23,7 @@ Joshua Prewett
 Justin Williams
 Jake Mager
 Kate Weber
-Keith is awesome Atkinson
+Keith Atkinson
 Kim Tracy
 Kyle Bray
 Marlaina Wunderlich
@@ -37,6 +37,7 @@ Spencer Miskoviak
 Steven Bertolucci
 Eric Widmann
 Gage Heeringa
+Grayson Briggs
 Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
