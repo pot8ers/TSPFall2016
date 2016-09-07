@@ -37,6 +37,7 @@ Spencer Miskoviak
 Steven Bertolucci
 Eric Widmann
 Gage Heeringa
+Grayson Briggs
 Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
