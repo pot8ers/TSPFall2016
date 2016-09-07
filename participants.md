@@ -28,7 +28,7 @@ Keith Atkinson
 Kim Tracy
 Kyle Bray
 Marlaina Wunderlich
-This is not Matthew Vogt
+Matthew Vogt
 Maxx Lehmann
 Michael Drogowski
 Michael Gryzwa
@@ -46,5 +46,6 @@ Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
 Zach DeKraker
+Zack Posz
 Zane Barker
 
