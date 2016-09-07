@@ -32,6 +32,7 @@ main (int argc, char *argv[])
   printf ("%02d: Jimmy Roznick\n", ++i);
   printf ("%02d: Amanda Charboneau\n", ++i);
   printf ("%02d: Catherine Steigerwald\n", ++i);
+  printf ("%02d: Catherine Steigerwald\n", ++i);
 <<<<<<< HEAD
   printf ("%02d: Elijah Pass\n", ++i);
 =======
