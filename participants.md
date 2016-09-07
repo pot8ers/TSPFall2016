@@ -13,6 +13,7 @@ Brandon Froncek
 Cameron Pollock
 Collin Bernard
 Dan Knenlein
+Dimitrios Kazakos
 Dylan Lettinga
 Grant Buhl
 Jacob Striebel
