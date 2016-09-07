@@ -32,7 +32,11 @@ main (int argc, char *argv[])
   printf ("%02d: Jimmy Roznick\n", ++i);
   printf ("%02d: Amanda Charboneau\n", ++i);
   printf ("%02d: Catherine Steigerwald\n", ++i);
+<<<<<<< HEAD
   printf ("%02d: Elijah Pass\n", ++i);
+=======
+  printf ("%02d: BJ Kent\n", ++i);
+>>>>>>> origin/master
   
   printf ("There are %i participants.\n", i);
   return 0;
