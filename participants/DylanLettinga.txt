@@ -1,0 +1,3 @@
+Name: Dylan Lettinga
+email: dletting@mtu.edu
+Github Acct: MSDOStoevsky

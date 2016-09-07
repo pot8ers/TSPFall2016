@@ -1,0 +1,3 @@
+Name: Andrew Fox
+Email: avfox@mtu.edu
+GitHub Acct: avfox
