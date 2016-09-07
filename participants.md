@@ -7,6 +7,7 @@ Baron Lenardson
 Ben Closner
 Brandon Froncek
 Dan Knenlein
+Elijah Pass
 Jacob Striebel
 Jordan Gagnon
 Joshua Prewett
