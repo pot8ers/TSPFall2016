@@ -17,8 +17,12 @@ Collin Bernard
 Catherine Steigerwald
 Dan Knenlein
 <<<<<<< HEAD
+<<<<<<< HEAD
 Elijah Pass
 =======
+=======
+Dillon Krompetz
+>>>>>>> origin/master
 Dylan Lettinga
 Grant Buhl
 >>>>>>> origin/master
