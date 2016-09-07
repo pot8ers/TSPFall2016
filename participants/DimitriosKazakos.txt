@@ -1,0 +1,3 @@
+Name: Dimitrios Kazakos
+Email: dkazakos@mtu.edu
+GitHub Acct: DimKaz

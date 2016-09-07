@@ -10,15 +10,21 @@ Baron Lenardson
 Ben Closner
 Ben Denys
 Benjamin Slade
+BJ Kent
 Brandon Froncek
 Cameron Pollock
+Catherine Steigerwald
 Collin Bernard
 Dan Knenlein
+Dimitrios Kazakos
+Elijah Pass
+Dillon Krompetz
 Dylan Lettinga
 Grant Buhl
 Jacob Striebel
 Jamie Witmer
 Jeremy Barker
+Jimmy Roznick
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
@@ -28,7 +34,9 @@ Keith Atkinson
 Kim Tracy
 Kyle Bray
 Marlaina Wunderlich
+Matthew Vogt
 Maxx Lehmann
+Michael Drogowski
 Michael Gryzwa
 Michael Lay
 Michael LeCaptain
@@ -44,5 +52,7 @@ Jacob Woloschek
 Joseph Aldape
 Marcus Stojcevich
 Zach DeKraker
+Zack Posz
 Zane Barker
-
+Brett Kriz
+Amanda Charboneau
