@@ -16,16 +16,11 @@ Cameron Pollock
 Collin Bernard
 Catherine Steigerwald
 Dan Knenlein
-<<<<<<< HEAD
-<<<<<<< HEAD
+Dimitrios Kazakos
 Elijah Pass
-=======
-=======
 Dillon Krompetz
->>>>>>> origin/master
 Dylan Lettinga
 Grant Buhl
->>>>>>> origin/master
 Jacob Striebel
 Jamie Witmer
 Jeremy Barker
