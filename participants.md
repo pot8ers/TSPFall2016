@@ -7,4 +7,5 @@ Jordan Gagnon
 Joshua Prewett
 Justin Williams
 Kim Tracy
+Robert Reid
 Steven Bertolucci
