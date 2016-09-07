@@ -4,6 +4,7 @@
 Alec Rivet
 Andrew Fox
 Andrew Wolowiec
+Armani Salary
 Avery Bailey
 Baron Lenardson
 Ben Closner
@@ -32,6 +33,7 @@ Michael Gryzwa
 Michael Lay
 Michael LeCaptain
 Richard Carpenter 
+Robert Reid
 S. 'Andee' Anderson
 Spencer Miskoviak
 Steven Bertolucci
@@ -43,3 +45,4 @@ Joseph Aldape
 Marcus Stojcevich
 Zach DeKraker
 Zane Barker
+
