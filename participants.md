@@ -19,6 +19,7 @@ Grant Buhl
 Jacob Striebel
 Jamie Witmer
 Jeremy Barker
+Jimmy Roznick
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
