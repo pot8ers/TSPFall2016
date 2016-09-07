@@ -13,6 +13,7 @@ Benjamin Slade
 Brandon Froncek
 Cameron Pollock
 Collin Bernard
+Catherine Steigerwald
 Dan Knenlein
 Dylan Lettinga
 Grant Buhl
@@ -49,4 +50,5 @@ Marcus Stojcevich
 Zach DeKraker
 Zack Posz
 Zane Barker
-
+Brett Kriz
+Amanda Charboneau
