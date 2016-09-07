@@ -10,9 +10,11 @@ Baron Lenardson
 Ben Closner
 Ben Denys
 Benjamin Slade
+BJ Kent
 Brandon Froncek
 Cameron Pollock
 Collin Bernard
+Catherine Steigerwald
 Dan Knenlein
 Dylan Lettinga
 Grant Buhl
@@ -50,3 +52,4 @@ Zach DeKraker
 Zack Posz
 Zane Barker
 Brett Kriz
+Amanda Charboneau
